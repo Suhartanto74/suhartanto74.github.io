@@ -3,9 +3,9 @@ layout: default
 title: Home
 ---
 
-# Selamat Datang di Profil Profesional Suhartanto, S.Pd.
+# Selamat Datang di Profil Profesional Suhartanto
 
-## 🎓 Guru Mata Pelajaran [Tulis Mata Pelajaran Anda] - SMAN 2 Bengkalis
+## 🎓 Guru Mata Pelajaran INFORMATIKA - SMAN 2 Bengkalis
 
 Saya seorang guru profesional yang bersemangat dalam memajukan pendidikan melalui teknologi. Website ini adalah pusat sumber daya digital dan media pembelajaran yang saya gunakan.
 
