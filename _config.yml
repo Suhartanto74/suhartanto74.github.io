@@ -1,9 +1,5 @@
-# Kode sebelumnya (Gagal):
-# remote_theme: "bencentra/jekyll-theme-agency" 
+theme: jekyll-theme-cayman
 
-# GANTI MENJADI KODE INI (Tema yang pasti bekerja):
-theme: jekyll-theme-cayman 
-
-# Tambahkan kembali detail Anda di bawah ini
-title: Suhartanto - Professional
-description: Profil dan Portofolio Resmi Suhartanto
+title: SUHARTANTO - GURU SMAN 2 BENGKALIS
+description: Website Resmi Profil & Media Pembelajaran Guru Mata Pelajaran [Tulis Mata Pelajaran Anda].
+show_downloads: false
