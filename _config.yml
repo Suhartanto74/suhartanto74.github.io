@@ -1,4 +1,9 @@
+# Kode sebelumnya (Gagal):
+# remote_theme: "bencentra/jekyll-theme-agency" 
+
 # GANTI MENJADI KODE INI (Tema yang pasti bekerja):
-theme: jekyll-theme-minimal
-title: Suhartanto - TANTO Server
+theme: jekyll-theme-cayman 
+
+# Tambahkan kembali detail Anda di bawah ini
+title: Suhartanto - Professional
 description: Profil dan Portofolio Resmi Suhartanto
