@@ -1,4 +1,8 @@
-theme: jekyll-theme-cayman 
-title: SMAN 2 BENGKALIS
-description: Website Profil & Media Pembelajaran Guru Suhartanto.
-show_downloads: false
+# --- PENGATURAN NAVIGASI HEADER (Menu Laci) ---
+header_pages:
+  - profil-sekolah.md
+  - guru-staf.md
+  - kegiatan.md
+  - prestasi.md
+  - blog.md
+  - galeri.md
