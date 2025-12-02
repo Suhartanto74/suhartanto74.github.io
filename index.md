@@ -1,12 +1,12 @@
 ---
 layout: default
-title: SMAN 2 Bengkalis - Website Resmi
+title: SMAN 2 Bengkalis
 ---
 
 <div align="center">
     <img src="https://iili.io/KbpdFZN.png" alt="Logo SMAN 2 Bengkalis" style="max-width: 150px; margin-bottom: 20px;">
 
-    <h1>✨ Selamat Datang di Website Resmi SMAN 2 Bengkalis ✨</h1>
+    <h1>✨ Selamat Datang di SMAN 2 Bengkalis ✨</h1>
     <p style="font-size: 1.2em; color: #555;">Mewujudkan Generasi Unggul dan Berakhlak Mulia</p>
     <p>Kami berkomitmen menciptakan lingkungan belajar yang inspiratif dan modern.</p>
 </div>
