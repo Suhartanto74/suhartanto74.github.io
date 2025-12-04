@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <title>Demo Perpustakaan Digital</title>
+</head>
+<body>
+
+    <h1>Formulir Tambah Koleksi Buku</h1>
+    <p>Data yang Anda masukkan akan tersimpan di Google Sheet melalui Google Apps Script.</p>
+    
+    <form id="bookForm" method="POST" action="<URL_APPS_SCRIPT_ANDA>">
+        
+        <label for="judul">Judul Buku:</label><br>
+        <input type="text" id="judul" name="judul" required><br><br>
+        
+        <label for="penulis">Penulis:</label><br>
+        <input type="text" id="penulis" name="penulis" required><br><br>
+        
+        <label for="tahun">Tahun Terbit:</label><br>
+        <input type="number" id="tahun" name="tahun" required><br><br>
+        
+        <button type="submit">Tambahkan ke Koleksi</button>
+        
+    </form>
+    
+</body>
+</html>
